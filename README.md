@@ -1,6 +1,6 @@
-[alt text][screenshot]
+![alt text][screenshot]
 
-# GMTK 2019
+# Buddy System
 [Buddy System Jam Entry Page](https://itch.io/jam/gmtk-2019/rate/460201) is our entry for the GMTK 2019 where the theme was "*Only One*"
 
 ## Description
